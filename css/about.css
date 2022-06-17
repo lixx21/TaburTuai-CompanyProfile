@@ -1,0 +1,27 @@
+.jumbotron-fluid{
+    background-image: url('../assets/Rectangle 1.png');
+    opacity: ;
+    background-size: cover;
+    width: 100%;
+}
+#about{
+    height: 100%;
+}
+
+.visimisi p{
+    font-size: 30px;
+    line-height: 70px;
+}
+
+.visimisi li{
+    font-size: 30px;
+    line-height: 70px;
+}
+
+.yt_player{
+    display: block;
+    border-style: none;
+    margin: 0 auto;
+    width:420px;
+    height:240px;
+}
